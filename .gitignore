@@ -1,3 +1,32 @@
+# Unity 生成的文件
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity 资源数据库
+*.csproj
+*.sln
+*.unityproj
+*.booproj
+
+# IDE 文件
+.idea/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 不要忽略 .gitkeep
+!.gitkeep
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
